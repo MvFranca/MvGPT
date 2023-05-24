@@ -15,7 +15,7 @@ import SidebarButton from "@/components/SideBarButton";
 
 const Page = () => {
   
-  const[stateMenu, CloseOpenMenu] = useState(true);
+  const[stateMenu, CloseOpenMenu] = useState(false);
   const [chatList, setChatList] = useState<Chat []>( [] )
   const [chatActiveId, setChatActiveId] = useState<string>('')
   const[chatActive, setChatActive] = useState<Chat>() //ou ele terá um chat, ou n terá nada

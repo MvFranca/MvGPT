@@ -18,17 +18,18 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Telas
 
-To learn more about Next.js, take a look at the following resources:
+# Tela Inicial
+![image](https://github.com/MvFranca/MvGPT/assets/111403597/d0819966-ebfd-4869-8415-3335e4efa564)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Tela de conversa
+![image](https://github.com/MvFranca/MvGPT/assets/111403597/5631ae2c-9c89-4354-839a-95815a817947)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Tela Inicial Mobile
+![image](https://github.com/MvFranca/MvGPT/assets/111403597/906e6a1a-f725-43a8-b90f-465116d3c63a)
 
-## Deploy on Vercel
+# Tela de Conversa Mobile
+![image](https://github.com/MvFranca/MvGPT/assets/111403597/4fc805a4-3c4e-49c8-9d8f-02f16a0f758a)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

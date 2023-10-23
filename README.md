@@ -27,9 +27,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ![image](https://github.com/MvFranca/MvGPT/assets/111403597/5631ae2c-9c89-4354-839a-95815a817947)
 
 ## Tela Inicial Mobile
-![image](https://github.com/MvFranca/MvGPT/assets/111403597/906e6a1a-f725-43a8-b90f-465116d3c63a)
+![image](https://github.com/MvFranca/MvGPT/assets/111403597/af355187-9471-4f58-b9ed-157fc1780846)
 
 ## Tela de Conversa Mobile
-![image](https://github.com/MvFranca/MvGPT/assets/111403597/4fc805a4-3c4e-49c8-9d8f-02f16a0f758a)
+![image](https://github.com/MvFranca/MvGPT/assets/111403597/e0808234-0cdb-464d-be8e-d74440dd3214)
+
 
 
